@@ -1,0 +1,70 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "CostIntent",
+        "samples": [
+          "What is the weather like in Hawaii",
+          "Tell me the weather in Hawaii",
+          "alexa What is the weather like in Hawaii",
+          "alexa tell me the weather in Hawaii"
+        ],
+        "slots": []
+      },
+      {
+        "name": "EventIntent",
+        "samples": [
+          "Alexa What do you think of Jeff Bezos",
+          "Alexa What do you think of Amazons CEO",
+          "Alexa What do you think about your CEO",
+          "what do you think about Jeff Bezos",
+          "Alexa what do you think about Jeff Bezos",
+          "what do you think of Jeff Bezos"
+        ],
+        "slots": []
+      },
+      {
+        "name": "InvestIntent",
+        "samples": [
+          "Alexa What do you think about my YouTube channel",
+          "alexa what is your opinion about my YouTube channel",
+          "alexa what do you think about this video",
+          "what do you think about my YouTube Channel"
+        ],
+        "slots": []
+      },
+      {
+        "name": "OverviewIntent",
+        "samples": [
+          "Alexa should I buy an alexa or google home",
+          "alexa what do you think about google home",
+          "Alexa which is better Alexa or google home",
+          "Alexa should I buy an Amazon Echo or Google Home",
+          "what do you think about google home"
+        ],
+        "slots": []
+      },
+      {
+        "name": "TimeIntent",
+        "samples": [
+          "What time is it",
+          "alexa what time is it"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "fake caroline"
+  }
+}
