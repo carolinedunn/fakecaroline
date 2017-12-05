@@ -46,6 +46,15 @@
         "slots": []
       },
       {
+        "name": "JokeIntent",
+        "samples": [
+          "Alexa tell me a joke",
+          "tell me a joke",
+          "give me a joke"
+        ],
+        "slots": []
+      },
+      {
         "name": "OverviewIntent",
         "samples": [
           "Alexa should I buy an alexa or google home",
@@ -61,6 +70,14 @@
         "samples": [
           "What time is it",
           "alexa what time is it"
+        ],
+        "slots": []
+      },
+      {
+        "name": "YouTubeIntent",
+        "samples": [
+          "alexa who is your favorite youtuber",
+          "who is your favorite youtuber"
         ],
         "slots": []
       }
