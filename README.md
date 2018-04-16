@@ -1,5 +1,5 @@
 # fakecaroline
-This is a funny Alexa Skill that give misinformation. Entertainment purposes only.
+This is a funny Alexa Skill that provides misinformation. Entertainment purposes only.
 
 Materials Needed:
 1. Amazon Echo
