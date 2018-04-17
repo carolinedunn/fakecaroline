@@ -19,7 +19,7 @@ Alexa: Alexa is crap. Google Home is so much better looking and smarter than me.
 
 User: Alexa, What do you think about Jeff Bezos?
 
-Alexa: Jeff Bezos is my boss, so I can't say what I really think.
+Alexa: Jeff Bezos is a fictional character.
 
 User: Alexa, What time is it?
 
